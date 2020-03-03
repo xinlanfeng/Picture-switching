@@ -4,4 +4,4 @@
 
 效果如下：
 
-![](E:\Aes6\es6实现图片切换特效\Picture-switching\images\GIF.gif)
+![](./images/GIF.gif)
